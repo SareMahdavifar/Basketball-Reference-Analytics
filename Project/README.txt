@@ -4,7 +4,6 @@ Sare Mahdavifar
 Zahra Abbaszadeh
 Hadis Rasouli
 MohammadReza Akbarian
-Ali Heydarzadeh
 
 
 GitHub Link:
